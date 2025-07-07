@@ -75,7 +75,7 @@ The developer is not responsible for any misuse.
 ------------------------------------
 CONTACT
 ------------------------------------
-GitHub: https://github.com/yourusername/yourtool
+GitHub: https://github.com/BlueOSINT
 Email: blue.osint@proton.me
 
 Thank you for using Blue OSINT!
