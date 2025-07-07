@@ -3,9 +3,9 @@ Archive password:Blueosint2025
 
 
 
-===============================
+=
     BLUE OSINT - README
-===============================
+=
 
 Name: Blue OSINT
 Version: 1.0.0
